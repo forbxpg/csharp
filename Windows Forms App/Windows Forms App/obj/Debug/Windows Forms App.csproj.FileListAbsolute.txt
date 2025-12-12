@@ -1,0 +1,2 @@
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\obj\Debug\Windows Forms App.csproj.AssemblyReference.cache
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\obj\Debug\Windows Forms App.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\bin\Debug\Windows Forms App.exe.config
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\bin\Debug\Windows Forms App.exe
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\bin\Debug\Windows Forms App.pdb
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\obj\Debug\csWinFkey.csproj.AssemblyReference.cache
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\obj\Debug\csWinFkey.Program.resources
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\obj\Debug\csWinFkey.csproj.GenerateResource.cache
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\obj\Debug\csWinFkey.csproj.CoreCompileInputs.cache
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\obj\Debug\Windows Forms App.exe
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\obj\Debug\Windows Forms App.pdb
+C:\Users\slaut\source\repos\Windows Forms App\Windows Forms App\obj\Debug\Windows Forms App.exe.config
